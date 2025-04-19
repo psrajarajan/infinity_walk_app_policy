@@ -1,0 +1,1 @@
+#Infinity_walk_app_policy
